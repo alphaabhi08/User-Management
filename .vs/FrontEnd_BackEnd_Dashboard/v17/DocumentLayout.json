@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Full Stack Developer\\React \u002B .Net Core Projects\\FrontEnd_BackEnd_Dashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89E94DC9-250A-4DB7-A833-3B65F96F025E}|FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj|e:\\full stack developer\\react \u002B .net core projects\\frontend_backend_dashboard\\frontend_backend_dashboard.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E94DC9-250A-4DB7-A833-3B65F96F025E}|FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj|solutionrelative:frontend_backend_dashboard.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abhishek\\Downloads\\MyQuickApp-using-OpenIddict-Authentication-Scheme-master\\MyQuickApp-using-OpenIddict-Authentication-Scheme-master\\MyQuickApp_Id.Server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E94DC9-250A-4DB7-A833-3B65F96F025E}|FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj|e:\\full stack developer\\react \u002B .net core projects\\frontend_backend_dashboard\\frontend_backend_dashboard.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E94DC9-250A-4DB7-A833-3B65F96F025E}|FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj|solutionrelative:frontend_backend_dashboard.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E94DC9-250A-4DB7-A833-3B65F96F025E}|FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj|e:\\full stack developer\\react \u002B .net core projects\\frontend_backend_dashboard\\frontend_backend_dashboard.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89E94DC9-250A-4DB7-A833-3B65F96F025E}|FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj|solutionrelative:frontend_backend_dashboard.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E94DC9-250A-4DB7-A833-3B65F96F025E}|FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj|e:\\full stack developer\\react \u002B .net core projects\\frontend_backend_dashboard\\frontend_backend_dashboard.server\\frontend_backend_dashboard.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89E94DC9-250A-4DB7-A833-3B65F96F025E}|FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj|solutionrelative:frontend_backend_dashboard.server\\frontend_backend_dashboard.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E94DC9-250A-4DB7-A833-3B65F96F025E}|FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj|e:\\full stack developer\\react \u002B .net core projects\\frontend_backend_dashboard\\frontend_backend_dashboard.server\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E94DC9-250A-4DB7-A833-3B65F96F025E}|FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj|solutionrelative:frontend_backend_dashboard.server\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E94DC9-250A-4DB7-A833-3B65F96F025E}|FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj|e:\\full stack developer\\react \u002B .net core projects\\frontend_backend_dashboard\\frontend_backend_dashboard.server\\frontend_backend_dashboard.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{89E94DC9-250A-4DB7-A833-3B65F96F025E}|FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj|solutionrelative:frontend_backend_dashboard.server\\frontend_backend_dashboard.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\Downloads\\MyQuickApp-using-OpenIddict-Authentication-Scheme-master\\MyQuickApp-using-OpenIddict-Authentication-Scheme-master\\MyQuickApp_Id.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\Downloads\\MyQuickApp-using-OpenIddict-Authentication-Scheme-master\\MyQuickApp-using-OpenIddict-Authentication-Scheme-master\\MyQuickApp_Id.Server\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:30:53.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Full Stack Developer\\React \u002B .Net Core Projects\\FrontEnd_BackEnd_Dashboard\\FrontEnd_BackEnd_Dashboard.Server\\Program.cs",
+              "RelativeDocumentMoniker": "FrontEnd_BackEnd_Dashboard.Server\\Program.cs",
+              "ToolTip": "E:\\Full Stack Developer\\React \u002B .Net Core Projects\\FrontEnd_BackEnd_Dashboard\\FrontEnd_BackEnd_Dashboard.Server\\Program.cs",
+              "RelativeToolTip": "FrontEnd_BackEnd_Dashboard.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:11:20.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "E:\\Full Stack Developer\\React \u002B .Net Core Projects\\FrontEnd_BackEnd_Dashboard\\FrontEnd_BackEnd_Dashboard.Server\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "FrontEnd_BackEnd_Dashboard.Server\\Controllers\\MessagesController.cs",
+              "ToolTip": "E:\\Full Stack Developer\\React \u002B .Net Core Projects\\FrontEnd_BackEnd_Dashboard\\FrontEnd_BackEnd_Dashboard.Server\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "FrontEnd_BackEnd_Dashboard.Server\\Controllers\\MessagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:51:13.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Full Stack Developer\\React \u002B .Net Core Projects\\FrontEnd_BackEnd_Dashboard\\FrontEnd_BackEnd_Dashboard.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FrontEnd_BackEnd_Dashboard.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Full Stack Developer\\React \u002B .Net Core Projects\\FrontEnd_BackEnd_Dashboard\\FrontEnd_BackEnd_Dashboard.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FrontEnd_BackEnd_Dashboard.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:50:50.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrontEnd_BackEnd_Dashboard.Server.http",
+              "DocumentMoniker": "E:\\Full Stack Developer\\React \u002B .Net Core Projects\\FrontEnd_BackEnd_Dashboard\\FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.http",
+              "RelativeDocumentMoniker": "FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.http",
+              "ToolTip": "E:\\Full Stack Developer\\React \u002B .Net Core Projects\\FrontEnd_BackEnd_Dashboard\\FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.http",
+              "RelativeToolTip": "FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-21T09:48:24.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Full Stack Developer\\React \u002B .Net Core Projects\\FrontEnd_BackEnd_Dashboard\\FrontEnd_BackEnd_Dashboard.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FrontEnd_BackEnd_Dashboard.Server\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Full Stack Developer\\React \u002B .Net Core Projects\\FrontEnd_BackEnd_Dashboard\\FrontEnd_BackEnd_Dashboard.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FrontEnd_BackEnd_Dashboard.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T09:47:01.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrontEnd_BackEnd_Dashboard.Server.csproj",
+              "DocumentMoniker": "E:\\Full Stack Developer\\React \u002B .Net Core Projects\\FrontEnd_BackEnd_Dashboard\\FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj",
+              "RelativeDocumentMoniker": "FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj",
+              "ToolTip": "E:\\Full Stack Developer\\React \u002B .Net Core Projects\\FrontEnd_BackEnd_Dashboard\\FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj",
+              "RelativeToolTip": "FrontEnd_BackEnd_Dashboard.Server\\FrontEnd_BackEnd_Dashboard.Server.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T09:46:55.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

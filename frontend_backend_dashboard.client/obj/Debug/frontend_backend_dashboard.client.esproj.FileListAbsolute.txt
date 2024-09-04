@@ -1,0 +1,1 @@
+E:\Full Stack Developer\React + .Net Core Projects\FrontEnd_BackEnd_Dashboard\frontend_backend_dashboard.client\obj\Debug\frontend_backend_dashboard.client.esproj.CoreCompileInputs.cache

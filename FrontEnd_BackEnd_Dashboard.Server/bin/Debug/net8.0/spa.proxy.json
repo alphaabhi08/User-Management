@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "E:\\Full Stack Developer\\React + .Net Core Projects\\FrontEnd_BackEnd_Dashboard\\FrontEnd_BackEnd_Dashboard.Server\\..\\frontend_backend_dashboard.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

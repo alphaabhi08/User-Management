@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "kZykoCdyvWPpWFYWxLumu0JJOc6QVAh6HiDygloOlno=",
+  "Source": "FrontEnd_BackEnd_Dashboard.Server",
+  "BasePath": "_content/FrontEnd_BackEnd_Dashboard.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\Full Stack Developer\\React + .Net Core Projects\\FrontEnd_BackEnd_Dashboard\\frontend_backend_dashboard.client\\frontend_backend_dashboard.client.esproj",
+      "Version": 2,
+      "Source": "frontend_backend_dashboard.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

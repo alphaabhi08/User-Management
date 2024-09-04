@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FrontEnd_BackEnd_Dashboard.Server.props" />
+</Project>
