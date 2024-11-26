@@ -22,8 +22,6 @@
 
 ⟹ MailTrap API for Email Services.
 
-⟹ Code First Approach.
-
 ⟹ MS Sql Server
 
 ## 🔒 Authentication & Authorization
