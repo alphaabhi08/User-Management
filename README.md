@@ -43,15 +43,16 @@ Click Here ⇢ <a href="https://jwt.io/introduction/">more info</a>
 
 ## 🤖 Overview
 
-![image](https://github.com/user-attachments/assets/93188544-3efa-44d0-bb93-2b79cb887c49)
+![image]([https://github.com/user-attachments/assets/93188544-3efa-44d0-bb93-2b79cb887c49](https://github.com/alphaabhi08/User-Management/blob/4e8de64fc19c4e8209139004da6b2c4c3884dfb2/01.png))
 
-![image](https://github.com/user-attachments/assets/6029bb33-8406-4d2f-a6a9-74a96447c3ea)
+![image]([https://github.com/user-attachments/assets/6029bb33-8406-4d2f-a6a9-74a96447c3ea](https://github.com/alphaabhi08/User-Management/blob/4e8de64fc19c4e8209139004da6b2c4c3884dfb2/02.png))
 
-![image](https://github.com/user-attachments/assets/e50d4853-ace4-4136-ac8e-0e6ce3d448e2)
-
-![image](https://github.com/user-attachments/assets/7aba8094-c69a-4182-a4cb-ee44a80b13a9)
-
-![image](https://github.com/user-attachments/assets/ef2293c2-c387-4c80-bc76-66d916e3c679)
+![image](https://github.com/alphaabhi08/User-Management/blob/4e8de64fc19c4e8209139004da6b2c4c3884dfb2/03.png)
+![image](https://github.com/alphaabhi08/User-Management/blob/4e8de64fc19c4e8209139004da6b2c4c3884dfb2/04.png)
+![image](https://github.com/alphaabhi08/User-Management/blob/4e8de64fc19c4e8209139004da6b2c4c3884dfb2/05.png)
+![image](https://github.com/alphaabhi08/User-Management/blob/4e8de64fc19c4e8209139004da6b2c4c3884dfb2/06.png)
+![image](https://github.com/alphaabhi08/User-Management/blob/4e8de64fc19c4e8209139004da6b2c4c3884dfb2/07.png)
+![image](https://github.com/alphaabhi08/User-Management/blob/4e8de64fc19c4e8209139004da6b2c4c3884dfb2/08.png)
 
 ## 🪶Build Using Following technology and tools :
 
