@@ -1,4 +1,4 @@
-# <pre>MyQuickApp-OpenIddict </pre>
+# <pre>My UserManagement- JWT </pre>
 
 ⟹ User Management is ASP.NET Core Web API with React Front-End. This Application uses JWT Authentication Scheme for secured and authenticated flow of operations.
 
@@ -7,12 +7,6 @@
 ⟹ This App is basically a Admin/User Management Portal , that let manage users or profile management using CRUD opertions in Secured Manner.
 
 <br>
-
-## Live Demo
-
-Project is currently freely hosted at Azure | <a href="https://myquickappapi.azurewebsites.net">LIVE DEMO</a>
-
-<pre><i>Note : Link May Not Work if Free Trial is Over</i></pre>
 
 ## 🚀 Lets Gets Started
 
@@ -58,15 +52,6 @@ Click Here ⇢ <a href="https://jwt.io/introduction/">more info</a>
 ![image](https://github.com/user-attachments/assets/7aba8094-c69a-4182-a4cb-ee44a80b13a9)
 
 ![image](https://github.com/user-attachments/assets/ef2293c2-c387-4c80-bc76-66d916e3c679)
-
-## Video Demo
-
-Do Checkout My Project Demo : <a href="https://www.youtube.com/watch?v=Y1LIPQb93KM">MyQuickAppID Demo</a>
-
-<!--
-## 🪶Project Demo Showcase
-Please Visit : <a href="https://youtu.be/u6wYCXrju6w">Project Demo</a>
--->
 
 ## 🪶Build Using Following technology and tools :
 
