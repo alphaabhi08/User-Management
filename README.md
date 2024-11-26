@@ -28,7 +28,7 @@
 
 ⟹ JWT Uses standard way which defines the flow of token for ( Access Token and Identity Token ) .
 
-Checkout more about OpenId Connect:
+Checkout more about JWT :
 Click Here ⇢ <a href="https://jwt.io/introduction/">more info</a>
 
 <br>
